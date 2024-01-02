@@ -1,0 +1,10 @@
+steps
+source venv/bin/activate
+use this to activaet virtual environment
+1-get basic code from # https://fastapi.tiangolo.com/tutorial/first-steps/
+2-install 2 package - pip install fastapi,uvicorn[standard]
+3-now project
+a-pip install jinja2
+b-install pymongo
+routes directory
+ke andar sara logic rahega
