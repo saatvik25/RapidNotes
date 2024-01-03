@@ -1,13 +1,10 @@
-<div align="center">
-  <img src="https://yourdomain.com/path/to/rapidnotes-logo.png" alt="RapidNotes Logo" width="200"/>
-</div>
+
 
 # RapidNotes
 
 RapidNotes is a fast and efficient note-taking application built with FastAPI and MongoDB (using Lithium as the database).
 
 ## Features
-
 - 🚀 Create, read, update, and delete notes with ease.
 - 🎨 Swift and responsive user interface.
 - 📦 Integration with MongoDB for reliable data storage.
