@@ -1,7 +1,6 @@
 
 
 # RapidNotes
-
 RapidNotes is a fast and efficient note-taking application built with FastAPI and MongoDB
 
 ## Features
