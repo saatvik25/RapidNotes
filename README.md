@@ -10,7 +10,6 @@ RapidNotes is a fast and efficient note-taking application built with FastAPI an
 - ⚡ Built on the powerful FastAPI framework for high-performance APIs.
 
 ## Getting Started
-
 ### Prerequisites
 
 - Python 3.7 or higher
